@@ -1,0 +1,11 @@
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\bin\Debug\UIHelper.dll
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\bin\Debug\UIHelper.pdb
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\OpenTextFileDialog.g.cs
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper_MarkupCompile.cache
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper_MarkupCompile.lref
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\OpenTextFileDialog.baml
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper.g.resources
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper.Properties.Resources.resources
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper.csproj.GenerateResource.cache
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper.dll
+C:\Users\LFeng\Desktop\研究生课程\软件设计与实践\SoftwareDesignAndPractice-master\Lessons\UIHelper\obj\Debug\UIHelper.pdb
